@@ -18,5 +18,8 @@
 - Docker Desktop
 - Raycast
 - Sequel Ace
-- Goland
-- Webstorm
+
+- JetBrains
+  - Goland
+  - Webstorm
+  - DataGrip
