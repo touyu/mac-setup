@@ -20,7 +20,6 @@
 - Raycast
 - Sequel Ace
 - Fork
-- Slack
 - JetBrains
   - JetBrains Toolbox
   - Goland
@@ -28,6 +27,8 @@
   - DataGrip
 
 - TickTick
+- Slack
+- Zoom
 
 ### CLI
 - Homebrew
