@@ -21,12 +21,13 @@
 - Sequel Ace
 - Fork
 - Slack
-
 - JetBrains
   - JetBrains Toolbox
   - Goland
   - Webstorm
   - DataGrip
+
+- TickTick
 
 ### CLI
 - Homebrew
