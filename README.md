@@ -2,6 +2,8 @@
 
 ## Installation
 
+### GUI
+
 - Karabiner-Elements
   - ⌘キーで英かな切り替えをできるようにする(USキーボード)
   - https://karabiner-elements.pqrs.org
@@ -13,13 +15,22 @@
   
 - iTerm2
 - Visual Studio Code
-- Fish
 - Arc
 - Docker Desktop
 - Raycast
 - Sequel Ace
+- Fork
+- Slack
 
 - JetBrains
+  - JetBrains Toolbox
   - Goland
   - Webstorm
   - DataGrip
+
+### CLI
+- Homebrew
+- Fish
+- anyenv
+  - goenv
+  - nodeenv
