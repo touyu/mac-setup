@@ -18,6 +18,7 @@
 - Arc
 - Docker Desktop
 - Raycast
+  - MacのSpotlightを止めて、代わりにRaycastを `⌘+space` にショートカットキーを割り当てる
 - Sequel Ace
 - Fork
 - JetBrains
